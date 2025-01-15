@@ -2,3 +2,4 @@ sh-keygen -t ed25519 -C "your_email@example.com"
 cat ~/.ssh/id_ed25519.pub
 eval $(ssh-agent -s)
 ssh-add ~/.ssh/sshkey
+ghp_heyhowLupHejrIHqNSplsC9NsGOgEXGz9mla25aIxm
